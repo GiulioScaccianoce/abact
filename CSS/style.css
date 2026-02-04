@@ -189,7 +189,7 @@ nav .menu ul li a:hover {
   align-items: center;
   text-align: center;
   opacity: 0.9;
-  padding: 5% 0% 0% 0%;
+  /*padding: 5% 0% 0% 0%;*/
 }
 .title-container {
   margin-top: 20px;
@@ -265,3 +265,4 @@ footer {
 }
 
 }
+
