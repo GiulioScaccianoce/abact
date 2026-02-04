@@ -181,10 +181,13 @@ nav .menu ul li a:hover {
   display: flex;
   background-image: url("assets/1.jpg");
   background-color: #870a0a;
+  background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  text-align: center;
   opacity: 0.9;
   padding: 5% 0% 0% 0%;
 }
